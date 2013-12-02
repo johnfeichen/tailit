@@ -1,4 +1,4 @@
 tailit
 ======
 
-java-based tail utility
+A java-based tail utility
